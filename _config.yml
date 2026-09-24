@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MM
-theme: minimal-mistakes-jekyll
 url: https://ichekakta.github.io/issamchekakta.github.io/
 email:
 description: >- # this means to ignore newlines until "baseurl:"
